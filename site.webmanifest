@@ -1,0 +1,21 @@
+{
+    "name": "Dave Hofstra's Landing Page",
+    "short_name": "DHofstra",
+    "start_url": "/LandingPage/",
+    "display": "standalone",
+    "background_color": "#062b3d",
+    "theme_color": "#0a5460",
+    "description": "Dave Hofstra's websites — SCUBA Gallery, Sprinkler Designer, Thursday Dinner",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

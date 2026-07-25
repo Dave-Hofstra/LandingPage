@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- Orange rounded square background -->
+  <rect width="1024" height="1024" rx="180" ry="180" fill="#ff6600"/>
+  <!-- White stylized "n" emblem -->
+  <path d="M280 320v384h110V538l126 166h100V320H506v166L380 320H280zm344 0v384h230l-30-96H734V320H624z" fill="#ffffff"/>
+</svg>

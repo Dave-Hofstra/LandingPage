@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 160">
+  <rect width="260" height="160" fill="#0b1f2a"/>
+  <g transform="translate(130,80)">
+    <!-- House icon -->
+    <rect x="-30" y="-15" width="60" height="45" rx="3" fill="#1f6f5b" stroke="#00b4d8" stroke-width="2"/>
+    <polygon points="0,-25 -35,-10 35,-10" fill="#00b4d8" stroke="#00b4d8" stroke-width="1"/>
+    <rect x="-8" y="5" width="16" height="25" fill="#0b1f2a"/>
+    <circle cx="18" cy="0" r="4" fill="#ffd700"/>
+    <circle cx="-18" cy="5" r="4" fill="#e63946"/>
+  </g>
+  <text x="130" y="135" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" font-weight="bold" fill="#00b4d8">Neighbors</text>
+</svg>
